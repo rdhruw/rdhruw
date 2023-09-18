@@ -9,4 +9,3 @@ rdhruw/rdhruw is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![Animation - 1695043910307](https://github.com/rdhruw/rdhruw/assets/141614582/4964af6c-3e68-4adb-988e-45e46da48cc2)
